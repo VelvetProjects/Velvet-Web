@@ -1,3 +1,5 @@
 # Velvet Web ⚡️
-Please note if the source code is not producing the latest version that is an issue with vscode not pushing our changes! Contact us for the code at support@velvetprojects.tk
+Visual Studio doesn't add the source code here, use the code in releases to edit/modify/download Velvet Web
+
+**Contact Us: support@velvetprojects.tk**
 
